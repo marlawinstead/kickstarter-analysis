@@ -23,7 +23,7 @@ Challenges and Difficulties Encountered
 There is limited data on canceled theater campaigns especially when filtered for plays. When the number of canceled plays in filtered based on goals using the COUNTIFS function, the result is 0 every time.
 
 Results
-Two conclusions that can be drawn from outcomes based on launch date:
+Two conclusions that can be drawn from outcomes based on launch date
 
 May is the most successful month to launch a campaign in. Following May, a decline is seen through the end of the year.
 There is not much data to be shown for canceled plays and none represented at all during the month of October.
@@ -31,14 +31,9 @@ Conclusions that can be drawn from outcomes based on goals:
 
 The most successful campaigns have a goal of less than $5,000 or from $35,000 to $40,000.
 Campaigns are the least successful with a goal of $25,000.
-Limitations of the Dataset:
+
+Limitations of the Dataset
 The data set only shows crowdfunding campaigns between the years 2009-2017. We do not have the most up to date information to analyze.
 
-Other possible tables and/or graphs that we could create:
-Another chart that could have been used is analyzing the relationship between the launch and end dates of the data set to see if there is a correlation between the length of time a campaign is crowdfunding for and the outcome of the campaign. This could then be represented by a pivot table.
-
-Limitations of the Dataset:
-The data set only shows crowdfunding campaigns between the years 2009-2017. We do not have the most up to date information to analyze.
-
-Other possible tables and/or graphs that we could create:
+Other possible tables and/or graphs that we could create
 Another chart that could have been used is analyzing the relationship between the launch and end dates of the data set to see if there is a correlation between the length of time a campaign is crowdfunding for and the outcome of the campaign. This could then be represented by a pivot table.
