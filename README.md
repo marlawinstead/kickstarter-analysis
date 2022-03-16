@@ -17,11 +17,13 @@ In this project, we looked at Kickstarter campaign goals and start dates to see 
 Analysis of Outcomes Based on Launch Date:
 
 Louise is crowdfunding for a play, so data has been filtered to show specific results for the category theater and then filtered again into the subcategory plays. The below chart represents the results.
+
 <img width="529" alt="Launch_date" src="https://user-images.githubusercontent.com/100978922/158491541-372c7f1f-44f5-40d9-b309-aee2a4646700.png">
 
 Analysis of Outcomes Based on Goals:
 
 We calculated the number of successful, failed and canceled plays based on goal. This was done using the COUNTIFS function in excel and was filtered for plays specifically. After getting the total number of each category, the totals were converted into percentages, represented in the graph below.
+
 <img width="915" alt="Goals" src="https://user-images.githubusercontent.com/100978922/158491558-f3c86c6f-5e80-4292-905f-a31a069a2817.png">
 
 Challenges and Difficulties Encountered:
